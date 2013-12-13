@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleDriveSample", "GoogleDriveSample.csproj", "{FED00BA0-115E-44F6-B920-E00534A6CF87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FED00BA0-115E-44F6-B920-E00534A6CF87}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{FED00BA0-115E-44F6-B920-E00534A6CF87}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{FED00BA0-115E-44F6-B920-E00534A6CF87}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{FED00BA0-115E-44F6-B920-E00534A6CF87}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{FED00BA0-115E-44F6-B920-E00534A6CF87}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{FED00BA0-115E-44F6-B920-E00534A6CF87}.Debug|iPhone.Build.0 = Debug|iPhone
+		{FED00BA0-115E-44F6-B920-E00534A6CF87}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{FED00BA0-115E-44F6-B920-E00534A6CF87}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{FED00BA0-115E-44F6-B920-E00534A6CF87}.Release|iPhone.ActiveCfg = Release|iPhone
+		{FED00BA0-115E-44F6-B920-E00534A6CF87}.Release|iPhone.Build.0 = Release|iPhone
+		{FED00BA0-115E-44F6-B920-E00534A6CF87}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{FED00BA0-115E-44F6-B920-E00534A6CF87}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = GoogleDriveSample.csproj
+	EndGlobalSection
+EndGlobal
